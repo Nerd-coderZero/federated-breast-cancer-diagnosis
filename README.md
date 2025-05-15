@@ -77,7 +77,7 @@ This project uses the Wisconsin Breast Cancer Dataset, which is included in scik
 
 If you already have Python with the required packages installed:
 
-1. **Clone the repository**:(ignore for now as not on github)
+1. **Clone the repository**:
    ```bash
    git clone https://github.com/Nerd-coderZero/federated-breast-cancer-diagnosis.git
    cd federated-breast-cancer-diagnosis
